@@ -1,0 +1,12 @@
+{
+  "name": "google-cloud-skills",
+  "description": "Google Cloud skills for Claude Code — BigQuery, Cloud Run, Cloud SQL, GKE, Firebase, and more.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Google"
+  },
+  "homepage": "https://github.com/google/skills",
+  "repository": "https://github.com/AcadiaMicro/skills",
+  "license": "Apache-2.0",
+  "skills": "./skills/cloud"
+}
